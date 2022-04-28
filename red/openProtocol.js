@@ -4,7 +4,7 @@
   GNU General Public License v3.0+ (see LICENSE or https://www.gnu.org/licenses/gpl-3.0.txt)
 */
 
-const openProtocol = require('node-open-protocol');
+const openProtocol = require('@eflexsystems/node-open-protocol');
 const base = require('../base.json');
 const {
     EventEmitter
