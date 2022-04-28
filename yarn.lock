@@ -3,6 +3,6 @@
 
 
 "@eflexsystems/node-open-protocol@^1.1.0":
-  version "1.1.1-1"
-  resolved "https://registry.yarnpkg.com/@eflexsystems/node-open-protocol/-/node-open-protocol-1.1.1-1.tgz#c74c5092375aafa8909409390a003d43bb3d1eaa"
-  integrity sha512-k/5egndvq8dFyW3YHDPgmGJvcjNqVBwL402jS31/qdxQ/Wg34tUWiPMdEfLT11AHGC9IJD2w/iOhBcrOZaHGQw==
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@eflexsystems/node-open-protocol/-/node-open-protocol-1.1.2.tgz#eb0a174ebaffef3477ccaf926f14f9eb428bc760"
+  integrity sha512-Q8lQacpQP+6eZ2m7tl+LUULz88Kk4tgC75SYVZfEjtPIKPObRujvg0rldtzoudqqH3355qBPlpQp2ENdvfYqGg==
